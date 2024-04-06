@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **LINUX OS**
 
-- 🤝 I’m looking for help with [MISHAL N](github.com/py0x11)
+- 🤝 I’m looking for help with [MISHAL N](https://github.com/py0x11)
 
 - 💬 Ask me about **LINUX, HACKING AND OFFENSIVE SECURITY**
 
